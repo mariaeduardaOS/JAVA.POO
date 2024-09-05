@@ -11,7 +11,7 @@ import java.time.LocalDate;
 
 
 @Entity
-public class Tarefa {
+public class tarefa {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
