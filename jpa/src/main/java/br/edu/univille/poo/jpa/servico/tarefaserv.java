@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-public class TarefaService {
+public class tarefaserv {
 
     @Autowired
     private TarefaRepository tarefaRepository;
